@@ -103,7 +103,7 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 - Estou com dificuldades em encontrar os exercícios e começar a resolver os problemas
   - Assim que aceder o torneio, os problemas estarão no lado esquerdo. Pode selecionar o problema desejado e enviar a solução clicando em “submeter”. Exemplo prático no seguinte tutorial:  [link do tutorial](https://shorturl.at/CXCcb)
 - Onde posso encontrar os contests?
-  - No [repositório](https://github.com/AOCP-Community/AOCPC_TRAINING_CAMP_2024) que se encontra. 
+  - No [repositório](https://github.com/AoCPC-Community/AOCPC-TRAINING-CAMP-2024/) que se encontra. 
 
 ## Créditos
 1. Autor: `AOCPC Community`
