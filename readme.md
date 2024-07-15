@@ -55,10 +55,10 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 - [Como praticar programação competitiva usando dados móveis](https://medium.com/@alfredomartins-codetyper/como-praticar-programacao-competitiva-usando-dados-moveis-347bf96926d2)
 
 ## Créditos
-Autor: `AOCPC Community`
-Organizações: `ICPC > ACPC > AoCPC`
-Suportes: `#####`
-Local e Data: `Luanda July 2024`
+- Autor: `AOCPC Community`
+- Organizações: `ICPC > ACPC > AoCPC`
+- Suportes: `#####`
+- Local e Data: `Luanda July 2024`
 
 > _Learn by doing._
 
