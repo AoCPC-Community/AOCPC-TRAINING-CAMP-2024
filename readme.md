@@ -71,10 +71,6 @@ Podem visitar os links que se seguem para verem algumas dicas de como fazer leit
 
 Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 
-## Para Ler
-1. [Onde estão os próximos campeões do AOCPC?](https://medium.com/@patrickdaniel016/onde-est%C3%A3o-os-pr%C3%B3ximos-campe%C3%B5es-do-aocpc-75ec9e338f24)
-2. [Como praticar programação competitiva usando dados móveis](https://medium.com/@alfredomartins-codetyper/como-praticar-programacao-competitiva-usando-dados-moveis-347bf96926d2)
-
 ## Plataformas de Programação Competitiva
 1. CodeForces: [https://codeforces.com/](https://codeforces.com/)
 2. AtCoder: [https://atcoder.jp/](https://atcoder.jp/)
