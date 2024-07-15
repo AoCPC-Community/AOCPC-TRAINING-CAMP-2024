@@ -4,7 +4,7 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 
 ## Contents
 1. [Lectures](#lectures)
-1. [Lectures (Última Edição)](#lectures-última-edição)
+1. [Lectures (2023)](#lectures-2023)
 3. [Contests](#contests)
 4. [Materiais de Apoio](#materiais-de-apoio)
 5. [Junte-se à Communidade](#junte-se-à-communidade)
