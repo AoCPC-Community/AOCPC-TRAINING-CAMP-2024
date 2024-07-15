@@ -48,7 +48,7 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 |     |                                                      | [https://www.youtube.com/watch?v=bdrkpgGRHkA](https://www.youtube.com/watch?v=bdrkpgGRHkA) |
 | 09  | Resolução de Problemas Diversos                      |                                                                      |
 
-## Contests
+## Contests de Treinos
 Junte-se *primeiro* ao grupo do VJUDGE para ter acesso aos contests:
 [https://vjudge.net/group/aocpc_tc24](https://vjudge.net/group/aocpc_tc24)
 
