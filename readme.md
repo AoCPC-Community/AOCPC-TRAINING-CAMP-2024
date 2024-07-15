@@ -16,7 +16,7 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 
 | #   | Topic                                                | Link                                                                 |
 |-----|------------------------------------------------------|----------------------------------------------------------------------|
-| 00  | Uma Viagem aos Concursos de Programação              | [https://youtu.be/r3C1Qv6BZl8](https://youtu.be/r3C1Qv6BZl8)         |
+| 00  | Uma Viagem pelo mundo dos Concursos de Programação   | [https://youtu.be/r3C1Qv6BZl8](https://youtu.be/r3C1Qv6BZl8)         |
 | 01  | Complexidade de Algoritmos                           | [Indisponível 2024](https://youtu.be/iB6ufBGfiVo)                    |
 | 03  | Ordenação, Busca Binária e Aplicações                | [Indisponível 2024](https://youtu.be/kBlSqEdyFIM)                    |
 | 04  | Operações em Arrays (Estáticos)                      | [Indisponível 2024](https://youtu.be/vTvHSGbZ9O8)                    |
