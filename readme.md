@@ -92,8 +92,10 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 3. Onde estão os próximos campeões do AOCPC?: [https://medium.com/@patrickdaniel016/onde-est%C3%A3o-os-pr%C3%B3ximos-campe%C3%B5es-do-aocpc-75ec9e338f24](https://medium.com/@patrickdaniel016/onde-est%C3%A3o-os-pr%C3%B3ximos-campe%C3%B5es-do-aocpc-75ec9e338f24)
 
 ## Terminologias importantes
-|-----|------------------------------------------------------|
-| CP  | Competitive Programming (Programação Competitiva)    |
+
+| Abreviação | Significado                                    |
+|------------|------------------------------------------------|
+| CP         | Competitive Programming (Programação Competitiva) |
 
 ## FAQ
 - Quais Linguagens de Programação são usadas?
