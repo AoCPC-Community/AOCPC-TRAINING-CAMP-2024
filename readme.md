@@ -68,4 +68,4 @@ Local e Data: `Luanda July 2024`
 - Telegram: [https://t.me/+rN4SZheQgiw2Yjk0](https://t.me/+rN4SZheQgiw2Yjk0)
 - YouTube: [https://www.youtube.com/@aocpc_community](https://www.youtube.com/@aocpc_community)
 
-[Back to the top](#contents)
+[Back to the top](#contents)# AOCPC-TRAINING-CAMP-2024
