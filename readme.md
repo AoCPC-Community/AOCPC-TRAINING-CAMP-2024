@@ -4,14 +4,34 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 
 ## Contents
 1. [Lectures](#lectures)
-2. [Contests](#contests)
-3. [Materiais de Apoio](#materiais-de-apoio)
-4. [Junte-se à Communidade](#junte-se-à-communidade)
-5. [Para Ler](#para-ler)
-6. [Plataformas de Programação Competitiva](#plataformas-de-programação-competitiva)
-7. [Repositórios Diversos](#repositórios-diversos)
+1. [Lectures (Última Edição)](#lectures-ultima-edicao)
+3. [Contests](#contests)
+4. [Materiais de Apoio](#materiais-de-apoio)
+5. [Junte-se à Communidade](#junte-se-à-communidade)
+6. [Para Ler](#para-ler)
+7. [Plataformas de Programação Competitiva](#plataformas-de-programação-competitiva)
+8. [Repositórios Diversos](#repositórios-diversos)
 
-## Lectures
+## Lectures (2024)
+
+| #   | Topic                                                | Link                                                                 |
+|-----|------------------------------------------------------|----------------------------------------------------------------------|
+| 00  | Concursos de Programação                             | [https://youtu.be/xQ4PA2a_vvU](https://youtu.be/xQ4PA2a_vvU)         |
+| 01  | Complexidade de Algoritmos                           | [Indisponível](https://youtu.be/iB6ufBGfiVo)                         |
+| 03  | Ordenação, Busca Binária e Aplicações                | [Indisponível](https://youtu.be/kBlSqEdyFIM)                         |
+| 04  | Operações em Arrays (Estáticos)                      | [Indisponível](https://youtu.be/vTvHSGbZ9O8)                         |
+| 04  | (Resolução de Exercícios) Operações em Arrays        | [Indisponível](https://youtu.be/Y0YDkhjb5_4)                         |
+| 05  | Teoria dos Números                                   | [Indisponível](https://youtu.be/0IoxQkYQdVM)                         |
+| 06  | Greedy                                               | [Indisponível](https://youtu.be/6ePTnxNZbO0)                         |
+| 07  | Programação Dinâmica                                 | [Indisponível](https://youtu.be/vlHAt7e3QI0)                         |
+| 08  | Grafos                                               | [Indisponível](https://youtu.be/2182WzIE_AI)                         |
+|     |                                                      | [Indisponível](https://www.youtube.com/watch?v=5cyz8Qyh1wg)          |
+|     |                                                      | [Indisponível](https://www.youtube.com/watch?v=fK82QhT8_Hk)          |
+|     |                                                      | [Indisponível](https://www.youtube.com/watch?v=bdrkpgGRHkA)          |
+| 09  | Resolução de Problemas Diversos                      |                                                                      |
+
+
+## Lectures (Última edição)
 
 | #   | Topic                                                | Link                                                                 |
 |-----|------------------------------------------------------|----------------------------------------------------------------------|
