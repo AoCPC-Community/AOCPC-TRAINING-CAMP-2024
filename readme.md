@@ -50,10 +50,15 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 
 ## Contests
 Junte-se *primeiro* ao grupo do VJUDGE para ter acesso aos contests:
-[https://vjudge.net/group/aocpc_tc23](https://vjudge.net/group/aocpc_tc23)
+[https://vjudge.net/group/aocpc_tc24](https://vjudge.net/group/aocpc_tc24)
 
 ## Materiais de Apoio
+Organizado em por edição.
 [https://mega.nz/folder/jTp2mLqR#QEzN5ZYgD0R6Zer7O_4OAQ](https://mega.nz/folder/jTp2mLqR#QEzN5ZYgD0R6Zer7O_4OAQ)
+
+## Junte-se à Communidade
+1. WhatsApp: [https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J](https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J)
+2. Telegram: [https://t.me/+rN4SZheQgiw2Yjk0](https://t.me/+rN4SZheQgiw2Yjk0)
 
 ### Referência em Português
 [https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/apoio.html](https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/apoio.html)
@@ -65,10 +70,6 @@ Podem visitar os links que se seguem para verem algumas dicas de como fazer leit
 2. [https://www.geeksforgeeks.org/fast-i-o-for-competitive-programming-in-python/](https://www.geeksforgeeks.org/fast-i-o-for-competitive-programming-in-python/)
 
 Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
-
-## Junte-se à Communidade
-1. WhatsApp: [https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J](https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J)
-2. Telegram: [https://t.me/+rN4SZheQgiw2Yjk0](https://t.me/+rN4SZheQgiw2Yjk0)
 
 ## Para Ler
 1. [Onde estão os próximos campeões do AOCPC?](https://medium.com/@patrickdaniel016/onde-est%C3%A3o-os-pr%C3%B3ximos-campe%C3%B5es-do-aocpc-75ec9e338f24)
