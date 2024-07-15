@@ -83,9 +83,7 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 6. Kenkoooo (Repositório do AtCoder): [https://kenkoooo.com/atcoder/#/table/](https://kenkoooo.com/atcoder/#/table/)
 7. CSES Problem Set: [https://cses.fi/problemset/](https://cses.fi/problemset/)
 
-## Repositórios
-
- Diversos
+## Repositórios Diversos
 1. CP Algorithms: [https://cp-algorithms.com/index.html](https://cp-algorithms.com/index.html)
 2. Guia USACO: [https://usaco.guide/](https://usaco.guide/)
 
