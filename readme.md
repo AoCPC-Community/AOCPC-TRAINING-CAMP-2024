@@ -11,6 +11,8 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 6. [Para Ler](#para-ler)
 7. [Plataformas de Programação Competitiva](#plataformas-de-programação-competitiva)
 8. [Repositórios Diversos](#repositórios-diversos)
+9. [Terminologias importantes](#terminologias-importantes)
+10. [FAQ](#faq)
 
 ## Lectures
 
@@ -88,6 +90,14 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 1. Por que estudar Programação Competitiva?: [https://medium.com/@osvaldozamba/por-que-estudar-programa%C3%A7%C3%A3o-competitiva-7a2ccadb30aa](https://medium.com/@osvaldozamba/por-que-estudar-programa%C3%A7%C3%A3o-competitiva-7a2ccadb30aa)
 2. A Importância da Programação Competitiva em Angola: [https://alfredomartins-codetyper.medium.com/a-importancia-da-programacao-competitiva-em-angola-dd92fc3ccc38](https://alfredomartins-codetyper.medium.com/a-importancia-da-programacao-competitiva-em-angola-dd92fc3ccc38)
 3. Onde estão os próximos campeões do AOCPC?: [https://medium.com/@patrickdaniel016/onde-est%C3%A3o-os-pr%C3%B3ximos-campe%C3%B5es-do-aocpc-75ec9e338f24](https://medium.com/@patrickdaniel016/onde-est%C3%A3o-os-pr%C3%B3ximos-campe%C3%B5es-do-aocpc-75ec9e338f24)
+
+## Terminologias importantes
+|-----|------------------------------------------------------|
+| CP  | Competitive Programming (Programação Competitiva)    |
+
+## FAQ
+- Quais Linguagens de Programação são usadas?
+  - C/C++, JAVA e Python.
 
 ## Créditos
 1. Autor: `AOCPC Community`
