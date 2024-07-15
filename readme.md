@@ -9,6 +9,7 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 4. [Junte-se à Communidade](#junte-se-à-communidade)
 5. [Para Ler](#para-ler)
 6. [Plataformas de Programação Competitiva](#plataformas-de-programação-competitiva)
+7. [Repositórios Diversos](#repositórios-diversos)
 
 ## Lectures
 
@@ -41,18 +42,18 @@ Junte-se *primeiro* ao grupo do VJUDGE para terem acesso aos contests:
 **ATENÇÃO:** Os problemas não estão organizados em ordem crescente de dificuldades. Portanto, devem ler todos os problemas, pois alguns poderão ser mais simples do que os outros!
 
 Podem visitar os links que se seguem para verem algumas dicas de como fazer leitura e escrita rápida nas linguagens de programação permitidas no concurso:
-- [https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/praticas/fastio.html](https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/praticas/fastio.html)
-- [https://www.geeksforgeeks.org/fast-i-o-for-competitive-programming-in-python/](https://www.geeksforgeeks.org/fast-i-o-for-competitive-programming-in-python/)
+1. [https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/praticas/fastio.html](https://www.dcc.fc.up.pt/~pribeiro/aulas/daa2223/praticas/fastio.html)
+2. [https://www.geeksforgeeks.org/fast-i-o-for-competitive-programming-in-python/](https://www.geeksforgeeks.org/fast-i-o-for-competitive-programming-in-python/)
 
 Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 
 ## Junte-se à Communidade
-- WhatsApp: [https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J](https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J)
-- Telegram: [https://t.me/+rN4SZheQgiw2Yjk0](https://t.me/+rN4SZheQgiw2Yjk0)
+1. WhatsApp: [https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J](https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J)
+2. Telegram: [https://t.me/+rN4SZheQgiw2Yjk0](https://t.me/+rN4SZheQgiw2Yjk0)
 
 ## Para Ler
-- [Onde estão os próximos campeões do AOCPC?](https://medium.com/@patrickdaniel016/onde-est%C3%A3o-os-pr%C3%B3ximos-campe%C3%B5es-do-aocpc-75ec9e338f24)
-- [Como praticar programação competitiva usando dados móveis](https://medium.com/@alfredomartins-codetyper/como-praticar-programacao-competitiva-usando-dados-moveis-347bf96926d2)
+1. [Onde estão os próximos campeões do AOCPC?](https://medium.com/@patrickdaniel016/onde-est%C3%A3o-os-pr%C3%B3ximos-campe%C3%B5es-do-aocpc-75ec9e338f24)
+2. [Como praticar programação competitiva usando dados móveis](https://medium.com/@alfredomartins-codetyper/como-praticar-programacao-competitiva-usando-dados-moveis-347bf96926d2)
 
 ## Plataformas de Programação Competitiva
 1. CodeForces: [https://www.facebook.com/AngolaCPC](https://codeforces.com/)
@@ -61,6 +62,16 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 4. Hacker Earth: [https://www.hackerearth.com/practice/](https://www.hackerearth.com/practice/)
 5. Hacker Rank: [https://www.hackerrank.com/dashboard](https://www.hackerrank.com/dashboard)
 6. Kenkoooo (Repositório do AtCoder): [https://kenkoooo.com/atcoder/#/table/](https://kenkoooo.com/atcoder/#/table/)
+7. CSES Problem Set: [https://cses.fi/problemset/](https://cses.fi/problemset/)
+
+## Repositórios Diversos
+1. CP Algorithms: [https://cp-algorithms.com/index.html](https://cp-algorithms.com/index.html)
+2. Guia USACO: [https://usaco.guide/](https://usaco.guide/)
+
+## Artigos Importantes
+1. Por que estudar Programação Competitiva?: [https://medium.com/@osvaldozamba/por-que-estudar-programa%C3%A7%C3%A3o-competitiva-7a2ccadb30aa](https://medium.com/@osvaldozamba/por-que-estudar-programa%C3%A7%C3%A3o-competitiva-7a2ccadb30aa)
+2. A Importância da Programação Competitiva em Angola: [https://alfredomartins-codetyper.medium.com/a-importancia-da-programacao-competitiva-em-angola-dd92fc3ccc38](https://alfredomartins-codetyper.medium.com/a-importancia-da-programacao-competitiva-em-angola-dd92fc3ccc38)
+3. Onde estão os próximos campeões do AOCPC?: [https://medium.com/@patrickdaniel016/onde-est%C3%A3o-os-pr%C3%B3ximos-campe%C3%B5es-do-aocpc-75ec9e338f24](https://medium.com/@patrickdaniel016/onde-est%C3%A3o-os-pr%C3%B3ximos-campe%C3%B5es-do-aocpc-75ec9e338f24)
 
 ## Créditos
 1. Autor: `AOCPC Community`
@@ -76,4 +87,4 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 4. Telegram: [https://t.me/+rN4SZheQgiw2Yjk0](https://t.me/+rN4SZheQgiw2Yjk0)
 5. YouTube: [https://www.youtube.com/@aocpc_community](https://www.youtube.com/@aocpc_community)
 
-[Back to the top](#contents)
+[Back to the top](#contents)# AOCPC-TRAINING-CAMP-2024
