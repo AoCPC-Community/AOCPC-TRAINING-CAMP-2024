@@ -16,18 +16,18 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 
 | #   | Topic                                                | Link                                                                 |
 |-----|------------------------------------------------------|----------------------------------------------------------------------|
-| 00  | Concursos de Programação                             | [https://youtu.be/r3C1Qv6BZl8](https://youtu.be/r3C1Qv6BZl8)                     |
-| 01  | Complexidade de Algoritmos                           | [Indisponível 2024](https://youtu.be/iB6ufBGfiVo)                     |
-| 03  | Ordenação, Busca Binária e Aplicações                | [Indisponível 2024](https://youtu.be/kBlSqEdyFIM)                     |
-| 04  | Operações em Arrays (Estáticos)                      | [Indisponível 2024](https://youtu.be/vTvHSGbZ9O8)                     |
-| 04  | (Resolução de Exercícios) Operações em Arrays        | [Indisponível 2024](https://youtu.be/Y0YDkhjb5_4)                     |
-| 05  | Teoria dos Números                                   | [Indisponível 2024](https://youtu.be/0IoxQkYQdVM)                     |
-| 06  | Greedy                                               | [Indisponível 2024](https://youtu.be/6ePTnxNZbO0)                     |
-| 07  | Programação Dinâmica                                 | [Indisponível 2024](https://youtu.be/vlHAt7e3QI0)                     |
-| 08  | Grafos                                               | [Indisponível 2024](https://youtu.be/2182WzIE_AI)                     |
-|     |                                                      | [Indisponível 2024](https://www.youtube.com/watch?v=5cyz8Qyh1wg)      |
-|     |                                                      | [Indisponível 2024](https://www.youtube.com/watch?v=fK82QhT8_Hk)      |
-|     |                                                      | [Indisponível 2024](https://www.youtube.com/watch?v=bdrkpgGRHkA)      |
+| 00  | Uma Viagem aos Concursos de Programação              | [https://youtu.be/r3C1Qv6BZl8](https://youtu.be/r3C1Qv6BZl8)         |
+| 01  | Complexidade de Algoritmos                           | [Indisponível 2024](https://youtu.be/iB6ufBGfiVo)                    |
+| 03  | Ordenação, Busca Binária e Aplicações                | [Indisponível 2024](https://youtu.be/kBlSqEdyFIM)                    |
+| 04  | Operações em Arrays (Estáticos)                      | [Indisponível 2024](https://youtu.be/vTvHSGbZ9O8)                    |
+| 04  | (Resolução de Exercícios) Operações em Arrays        | [Indisponível 2024](https://youtu.be/Y0YDkhjb5_4)                    |
+| 05  | Teoria dos Números                                   | [Indisponível 2024](https://youtu.be/0IoxQkYQdVM)                    |
+| 06  | Greedy                                               | [Indisponível 2024](https://youtu.be/6ePTnxNZbO0)                    |
+| 07  | Programação Dinâmica                                 | [Indisponível 2024](https://youtu.be/vlHAt7e3QI0)                    |
+| 08  | Grafos                                               | [Indisponível 2024](https://youtu.be/2182WzIE_AI)                    |
+|     |                                                      | [Indisponível 2024](https://www.youtube.com/watch?v=5cyz8Qyh1wg)     |
+|     |                                                      | [Indisponível 2024](https://www.youtube.com/watch?v=fK82QhT8_Hk)     |
+|     |                                                      | [Indisponível 2024](https://www.youtube.com/watch?v=bdrkpgGRHkA)     |
 | 09  | Resolução de Problemas Diversos                      |                                                                      |
 
 ## Lectures (Última Edição)
