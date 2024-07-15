@@ -3,11 +3,12 @@
 Treinamento anual de programação competitiva para os participantes do AoCPC, organizado pela AoCPC Community, num período de 15 dias.
 
 ## Contents
-- [Lectures](#lectures)
-- [Contests](#contests)
-- [Materiais de Apoio](#materiais-de-apoio)
-- [Junte-se à Communidade](#junte-se-à-communidade)
-- [Para Ler](#para-ler)
+1. [Lectures](#lectures)
+2. [Contests](#contests)
+3. [Materiais de Apoio](#materiais-de-apoio)
+4. [Junte-se à Communidade](#junte-se-à-communidade)
+5. [Para Ler](#para-ler)
+6. [Plataformas de Programação Competitiva](#plataformas-de-programação-competitiva)
 
 ## Lectures
 
@@ -28,7 +29,6 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 | 09  | Resolução de Problemas Diversos                      |                                                                      |
 
 ## Contests
-
 Junte-se *primeiro* ao grupo do VJUDGE para terem acesso aos contests:
 [https://vjudge.net/group/aocpc_tc23](https://vjudge.net/group/aocpc_tc23)
 
@@ -54,18 +54,26 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 - [Onde estão os próximos campeões do AOCPC?](https://medium.com/@patrickdaniel016/onde-est%C3%A3o-os-pr%C3%B3ximos-campe%C3%B5es-do-aocpc-75ec9e338f24)
 - [Como praticar programação competitiva usando dados móveis](https://medium.com/@alfredomartins-codetyper/como-praticar-programacao-competitiva-usando-dados-moveis-347bf96926d2)
 
+## Plataformas de Programação Competitiva
+1. CodeForces: [https://www.facebook.com/AngolaCPC](https://codeforces.com/)
+2. AtCoder: [https://github.com/AOCP-Community/AOCPC_TRAINING_CAMP_2024](https://atcoder.jp/)
+3. CodeChef: [https://www.codechef.com/](https://www.codechef.com/)
+4. Hacker Earth: [https://www.hackerearth.com/practice/](https://www.hackerearth.com/practice/)
+5. Hacker Rank: [https://www.hackerrank.com/dashboard](https://www.hackerrank.com/dashboard)
+6. Kenkoooo (Repositório do AtCoder): [https://kenkoooo.com/atcoder/#/table/](https://kenkoooo.com/atcoder/#/table/)
+
 ## Créditos
-- Autor: `AOCPC Community`
-- Organizações: `ICPC > ACPC > AoCPC`
-- Suportes: `#####`
-- Local e Data: `Luanda July 2024`
+1. Autor: `AOCPC Community`
+2. Organizações: `ICPC > ACPC > AoCPC`
+3. Suportes: `#####`
+4. Local e Data: `Luanda July 2024`
 
 > _Learn by doing._
 
-- Facebook: [https://www.facebook.com/AngolaCPC](https://www.facebook.com/AngolaCPC)
-- GitHub: [https://github.com/AOCP-Community/AOCPC_TRAINING_CAMP_2024](https://github.com/AOCP-Community/AOCPC_TRAINING_CAMP_2024)
-- WhatsApp: [https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J](https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J)
-- Telegram: [https://t.me/+rN4SZheQgiw2Yjk0](https://t.me/+rN4SZheQgiw2Yjk0)
-- YouTube: [https://www.youtube.com/@aocpc_community](https://www.youtube.com/@aocpc_community)
+1. Facebook: [https://www.facebook.com/AngolaCPC](https://www.facebook.com/AngolaCPC)
+2. GitHub: [https://github.com/AOCP-Community/AOCPC_TRAINING_CAMP_2024](https://github.com/AOCP-Community/AOCPC_TRAINING_CAMP_2024)
+3. WhatsApp: [https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J](https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J)
+4. Telegram: [https://t.me/+rN4SZheQgiw2Yjk0](https://t.me/+rN4SZheQgiw2Yjk0)
+5. YouTube: [https://www.youtube.com/@aocpc_community](https://www.youtube.com/@aocpc_community)
 
 [Back to the top](#contents)# AOCPC-TRAINING-CAMP-2024
