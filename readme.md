@@ -76,4 +76,4 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 4. Telegram: [https://t.me/+rN4SZheQgiw2Yjk0](https://t.me/+rN4SZheQgiw2Yjk0)
 5. YouTube: [https://www.youtube.com/@aocpc_community](https://www.youtube.com/@aocpc_community)
 
-[Back to the top](#contents)# AOCPC-TRAINING-CAMP-2024
+[Back to the top](#contents)
