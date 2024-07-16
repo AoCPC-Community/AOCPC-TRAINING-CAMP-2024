@@ -55,7 +55,7 @@ Junte-se *primeiro* ao grupo do VJUDGE para ter acesso aos contests:
 [https://vjudge.net/group/aocpc_tc24](https://vjudge.net/group/aocpc_tc24)
 
 ## Materiais de Apoio
-Organizado em por edição.
+Organizado por edição.
 [https://mega.nz/folder/jTp2mLqR#QEzN5ZYgD0R6Zer7O_4OAQ](https://mega.nz/folder/jTp2mLqR#QEzN5ZYgD0R6Zer7O_4OAQ)
 
 ## Junte-se à Communidade
