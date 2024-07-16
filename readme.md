@@ -5,7 +5,7 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 ## Contents
 1. [Lectures](#lectures)
 1. [Lectures (2023)](#lectures-2023)
-3. [Contests](#contests)
+3. [Contests](#contests-de-treinos)
 4. [Materiais de Apoio](#materiais-de-apoio)
 5. [Junte-se à Communidade](#junte-se-à-communidade)
 6. [Para Ler](#para-ler)
@@ -103,7 +103,7 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 - Estou com dificuldades em encontrar os exercícios e começar a resolver os problemas
   - Assim que aceder o torneio, os problemas estarão no lado esquerdo. Pode selecionar o problema desejado e enviar a solução clicando em “submeter”. Exemplo prático no seguinte tutorial:  [link do tutorial](https://shorturl.at/CXCcb)
 - Onde posso encontrar os contests?
-  - No [repositório](https://github.com/AoCPC-Community/AOCPC-TRAINING-CAMP-2024/) que se encontra. 
+  - No [repositório](https://github.com/AoCPC-Community/AOCPC-TRAINING-CAMP-2024/) que se encontra, mais especificamente na sessão [Contests]()
 
 ## Créditos
 1. Autor: `AOCPC Community`
