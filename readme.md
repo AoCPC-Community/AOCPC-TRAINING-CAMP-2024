@@ -7,12 +7,13 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 1. [Lectures (2023)](#lectures-2023)
 3. [Contests](#contests-de-treinos)
 4. [Materiais de Apoio](#materiais-de-apoio)
-5. [Junte-se à Communidade](#junte-se-à-communidade)
-6. [Para Ler](#para-ler)
-7. [Plataformas de Programação Competitiva](#plataformas-de-programação-competitiva)
-8. [Repositórios Diversos](#repositórios-diversos)
-9. [Terminologias importantes](#terminologias-importantes)
-10. [FAQ](#faq)
+5. [Quizzes](#quizzes)
+6. [Junte-se à Communidade](#junte-se-à-communidade)
+7. [Para Ler](#para-ler)
+8. [Plataformas de Programação Competitiva](#plataformas-de-programação-competitiva)
+9. [Repositórios Diversos](#repositórios-diversos)
+10. [Terminologias importantes](#terminologias-importantes)
+11. [FAQ](#faq)
 
 ## Lectures
 
@@ -57,6 +58,9 @@ Junte-se *primeiro* ao grupo do VJUDGE para ter acesso aos contests:
 ## Materiais de Apoio
 Organizado por edição.
 [https://mega.nz/folder/jTp2mLqR#QEzN5ZYgD0R6Zer7O_4OAQ](https://mega.nz/folder/jTp2mLqR#QEzN5ZYgD0R6Zer7O_4OAQ)
+
+## Quizzes
+Quiz conceitual sobre Complexidade de Algoritmos: [https://forms.office.com/r/77dPDhw3Av](https://forms.office.com/r/77dPDhw3Av)
 
 ## Junte-se à Communidade
 1. WhatsApp: [https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J](https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J)
