@@ -4,10 +4,10 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 
 ## Contents
 1. [Lectures](#lectures)
-1. [Lectures (2023)](#lectures-2023)
+2. [Lectures (2023)](#lectures-2023)
 3. [Contests](#contests-de-treinos)
 4. [Materiais de Apoio](#materiais-de-apoio)
-5. [Quizzes](#quizzes)
+5. [Quizzes ou Listas de Exercícios](#quizzes)
 6. [Junte-se à Communidade](#junte-se-à-communidade)
 7. [Para Ler](#para-ler)
 8. [Plataformas de Programação Competitiva](#plataformas-de-programação-competitiva)
@@ -20,7 +20,7 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 | #   | Topic                                                | Link                                                                 |
 |-----|------------------------------------------------------|----------------------------------------------------------------------|
 | 00  | Uma Viagem pelo mundo dos Concursos de Programação   | [https://youtu.be/r3C1Qv6BZl8](https://youtu.be/r3C1Qv6BZl8)         |
-| 01  | Complexidade de Algoritmos                           | [Indisponível 2024](#)                    |
+| 01  | Complexidade de Algoritmos (Análise Assintótica)     | [https://youtu.be/TVkhWvClnA0](https://youtu.be/TVkhWvClnA0)                    |
 | 03  | Ordenação, Busca Binária e Aplicações                | [Indisponível 2024](#)                    |
 | 04  | Operações em Arrays (Estáticos)                      | [Indisponível 2024](#)                    |
 | 04  | (Resolução de Exercícios) Operações em Arrays        | [Indisponível 2024](#)                    |
@@ -117,7 +117,7 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 3. Suportes: `#####`
 4. Local e Data: `Luanda July 2024`
 
-> _Learn by doing._
+> _"Problem solving is a lifestyle"._
 
 1. Facebook: [https://www.facebook.com/AngolaCPC](https://www.facebook.com/AngolaCPC)
 2. GitHub: [https://github.com/AOCP-Community/AOCPC_TRAINING_CAMP_2024](https://github.com/AOCP-Community/AOCPC_TRAINING_CAMP_2024)
