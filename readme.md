@@ -13,7 +13,7 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 8. [Plataformas de Programação Competitiva](#plataformas-de-programação-competitiva)
 9. [Repositórios Diversos](#repositórios-diversos)
 10. [Terminologias importantes](#terminologias-importantes)
-11. [Problemas Frequentes](#problemas-frequentes)
+11. [Dicas e Problemas Frequentes](#dicas-e-problemas-frequentes)
 12. [FAQ](#faq)
 
 ## Lectures
@@ -113,10 +113,13 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 - Onde podemos encontrar as aulas do ano passado?
   - No [repositório](https://github.com/AoCPC-Community/AOCPC-TRAINING-CAMP-2024/) que se encontra, mais especificamente na sessão [Lectures (2023)](#lectures-2023).
 
-## Problemas Frequentes
+## Dicas e Problemas Frequentes
 - O meu código parece ter uma complexidade aceitável, mas estou a receber TLE.
   - Se estiver passando arrays em funções, certifique-se de que a passagem é por referência e não por valor. Quando a passagem é por valor, uma cópia do array é enviada, o que pode levar O(n) no caso de array unidimensional, e isto pode afetar muito a sua solução. Se achou que a complexidade era, por exemplo, O(n), com esta cópia acabará sendo O(n^2). Tome nota!
   - Certifique-se sempre a complexidade das estruturas de dados que estiver usando. Por exemplo, uma remoção de um valor em uma "unordered_set" leva O(n) no pior caso, enquanto que em uma "map" ou "set" será O(log n). Isto acontece porque uma map é construído em torno de árvores. Esta nota pode te levar de TLE para AC sem rodeios.
+
+- Como escolher a estrutura de dados ideal quando temos mais de uma opção?
+  - Algumas estruturas de dados possuem um "fator constante" maior do que outras. Por exemplo, as Fenwick Trees são mais rápidas que as Segment Trees, embora as Segment Trees sejam mais abrangentes em termos de aplicabilidade. Portanto, sempre que for indiferente usar uma das duas, escolha a Fenwick Tree. Teoricamente, ambas permitem atualizações e consultas genéricas em O(log n).
 
 ## Créditos
 1. Autor: `AOCPC Community`
