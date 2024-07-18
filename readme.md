@@ -114,9 +114,9 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
   - No [repositório](https://github.com/AoCPC-Community/AOCPC-TRAINING-CAMP-2024/) que se encontra, mais especificamente na sessão [Lectures (2023)](#lectures-2023).
 
 ## Problemas Frequentes
-- O meu meu código parece ter uma complexidade aceitável, mas estou a receber TLE.
+- O meu código parece ter uma complexidade aceitável, mas estou a receber TLE.
   - Se estiver passando arrays em funções, certifique-se de que a passagem é por referência e não por valor. Quando a passagem é por valor, uma cópia do array é enviada, o que pode levar O(n) no caso de array unidimensional, e isto pode afetar muito a sua solução. Se achou que a complexidade era, por exemplo, O(n), com esta cópia acabará sendo O(n^2). Tome nota!
-  - Certifique-se sempre a complexidade das estruturas de dados que estiver usando. Por exemplo, uma remoção de um valor em uma "set" leva O(n) no pior caso, enquanto que em uma "map" será O(log n). Isto acontece porque uma map é construído em torno de árvores. Esta nota pode te levar de TLE para AC sem rodeios.
+  - Certifique-se sempre a complexidade das estruturas de dados que estiver usando. Por exemplo, uma remoção de um valor em uma "unordered_set" leva O(n) no pior caso, enquanto que em uma "map" ou "set" será O(log n). Isto acontece porque uma map é construído em torno de árvores. Esta nota pode te levar de TLE para AC sem rodeios.
 
 ## Créditos
 1. Autor: `AOCPC Community`
