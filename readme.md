@@ -13,7 +13,8 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 8. [Plataformas de Programação Competitiva](#plataformas-de-programação-competitiva)
 9. [Repositórios Diversos](#repositórios-diversos)
 10. [Terminologias importantes](#terminologias-importantes)
-11. [FAQ](#faq)
+11. [Problemas Frequentes](#problemas-frequentes)
+12. [FAQ](#faq)
 
 ## Lectures
 
@@ -52,7 +53,7 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 | 09  | Resolução de Problemas Diversos                      |                                                                      |
 
 ## Contests de Treinos
-Junte-se *primeiro* ao grupo do VJUDGE para ter acesso aos contests:
+Junte-se 1º ao grupo do VJUDGE para ter acesso aos contests:
 [https://vjudge.net/group/aocpc_tc24](https://vjudge.net/group/aocpc_tc24)
 
 ## Materiais de Apoio
@@ -97,9 +98,10 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 
 ## Terminologias importantes
 
-| Abreviação | Significado                                    |
-|------------|------------------------------------------------|
+| Abreviação | Significado                                       |
+|------------|---------------------------------------------------|
 | CP         | Competitive Programming (Programação Competitiva) |
+| TLE        | Time Limited Exceeded (Tempo Limite Excedido)     |
 
 ## FAQ
 - Quais Linguagens de Programação são usadas?
@@ -110,6 +112,11 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
   - No [repositório](https://github.com/AoCPC-Community/AOCPC-TRAINING-CAMP-2024/) que se encontra, mais especificamente na sessão [Contests](#contests-de-treinos).
 - Onde podemos encontrar as aulas do ano passado?
   - No [repositório](https://github.com/AoCPC-Community/AOCPC-TRAINING-CAMP-2024/) que se encontra, mais especificamente na sessão [Lectures (2023)](#lectures-2023).
+
+## Problemas Frequentes
+- O meu meu código parece ter uma complexidade aceitável, mas estou a receber TLE.
+  - Se estiver passando arrays em funções, certifique-se de que a passagem é por referência e não por valor. Quando a passagem é por valor, uma cópia do array é enviada, o que pode levar O(n) no caso de array unidimensional, e isto pode afetar muito a sua solução. Se achou que a complexidade era, por exemplo, O(n), com esta cópia acabará sendo O(n^2). Tome nota!
+  - Certifique-se sempre da complexidade das estruturas de dados que estiver usando. Por exemplo, uma remoção de um valor em um "set" leva O(n) no pior caso, enquanto que em um "map" será O(log n). Isto acontece porque um map é construído em torno de árvores. Esta nota pode te levar de TLE para AC sem rodeios.
 
 ## Créditos
 1. Autor: `AOCPC Community`
