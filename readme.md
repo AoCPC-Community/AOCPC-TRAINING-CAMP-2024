@@ -21,15 +21,15 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 | #   | Topic                                                | Link                                                                 |
 |-----|------------------------------------------------------|----------------------------------------------------------------------|
 | 00  | Uma Viagem pelo mundo dos Concursos de Programação   | [https://youtu.be/r3C1Qv6BZl8](https://youtu.be/r3C1Qv6BZl8)         |
-| 01  | Complexidade de Algoritmos (Análise Assintótica)     | [https://youtu.be/TVkhWvClnA0](https://youtu.be/TVkhWvClnA0)                    |
-| 03  | Ordenação, Busca Binária e Aplicações                | [Indisponível 2024](#)                    |
-| 04  | Operações em Arrays (Estáticos)                      | [Indisponível 2024](#)                    |
+| 01  | Complexidade de Algoritmos (Análise Assintótica)     | [https://youtu.be/TVkhWvClnA0](https://youtu.be/TVkhWvClnA0)         |
+| 02  | Pesquisa Binária + Operações e Consultas em Arrays   | [https://youtu.be/KXsj4bWNrCc](https://youtu.be/KXsj4bWNrCc)         |
+| 03  | Operações em Arrays (Estáticos)                      | [Indisponível 2024](#)                    |
 | 04  | (Resolução de Exercícios) Operações em Arrays        | [Indisponível 2024](#)                    |
 | 05  | Teoria dos Números                                   | [Indisponível 2024](#)                    |
 | 06  | Greedy                                               | [Indisponível 2024](#)                    |
 | 07  | Programação Dinâmica                                 | [Indisponível 2024](#)                    |
 | 08  | Grafos                                               | [Indisponível 2024](#)                    |
-|     |                                                      | [Indisponível 2024](#)     |
+|     |                                                      | [Indisponível 2024](#)                    |
 |     |                                                      | [Indisponível 2024](#)     |
 |     |                                                      | [Indisponível 2024](#)     |
 | 09  | Resolução de Problemas Diversos                      |                                                                      |
@@ -102,6 +102,8 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 |------------|---------------------------------------------------|
 | CP         | Competitive Programming (Programação Competitiva) |
 | TLE        | Time Limited Exceeded (Tempo Limite Excedido)     |
+| WA         | Wrong Answer (Resposta Errada)                    |
+| RE         | Runtime Error (Erro do Tempo de Execussão)        |
 
 ## FAQ
 - Quais Linguagens de Programação são usadas?
@@ -120,6 +122,9 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 
 - Como escolher a estrutura de dados ideal quando temos mais de uma opção?
   - Algumas estruturas de dados possuem um "fator constante" maior do que outras. Por exemplo, as Fenwick Trees são mais rápidas que as Segment Trees, embora as Segment Trees sejam mais abrangentes em termos de aplicabilidade. Portanto, sempre que for indiferente usar uma das duas, escolha a Fenwick Tree. Teoricamente, ambas permitem atualizações e consultas genéricas em O(log n).
+
+- Meu código parece correto, todos os testes de exemplo passam, mas estou recebendo WA. 
+  - Verifique a capacidade do tipo de dados da variável que está usando. Por exemplo, em programas que pedem a soma de elementos que podem chegar a 10^9, é provável que a variável que armazena a soma estoure. Nesse caso, é necessário mudar de "int" para "long long". Se o participante não fizer essa alteração, será impossível passar na questão, mesmo que apenas um caso de teste falhe.
 
 ## Créditos
 1. Autor: `AOCPC Community`
