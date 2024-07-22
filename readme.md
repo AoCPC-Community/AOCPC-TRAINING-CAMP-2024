@@ -23,7 +23,7 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 | 00  | Uma Viagem pelo mundo dos Concursos de Programação   | [https://youtu.be/r3C1Qv6BZl8](https://youtu.be/r3C1Qv6BZl8)         |
 | 01  | Complexidade de Algoritmos (Análise Assintótica)     | [https://youtu.be/TVkhWvClnA0](https://youtu.be/TVkhWvClnA0)         |
 | 02  | Pesquisa Binária + Operações e Consultas em Arrays   | [https://youtu.be/KXsj4bWNrCc](https://youtu.be/KXsj4bWNrCc)         |
-| 03  | Operações em Arrays (Estáticos)                      | [Indisponível 2024](#)                    |
+| 03  | Matemática                                           | [https://youtu.be/RzPjwv9lFHA](https://youtu.be/RzPjwv9lFHA)         |
 | 04  | (Resolução de Exercícios) Operações em Arrays        | [Indisponível 2024](#)                    |
 | 05  | Teoria dos Números                                   | [Indisponível 2024](#)                    |
 | 06  | Greedy                                               | [Indisponível 2024](#)                    |
@@ -141,3 +141,17 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 5. YouTube: [https://www.youtube.com/@aocpc_community](https://www.youtube.com/@aocpc_community)
 
 [Back to the top](#contents)
+
+Segue-se a gravação da 3ª sessão e o contest de prática.
+
+*ÚLTIMA AULA:*
+Pesquisa Binária + Operações e Consultas em Arrays - https://youtu.be/KXsj4bWNrCc
+QUIZ: https://forms.office.com/r/77dPDhw3Av
+
+*CONTESTS DE TREINO:*
+Juntem-se primeiro ao grupo do VJUDGE para terem acesso aos contests:
+3º: https://vjudge.net/contest/642340
+Grupo (caso ainda não acedeu): https://vjudge.net/group/aocpc_tc24 
+
+*OUTROS:*
+Repositório completo: https://github.com/AoCPC-Community/AOCPC-TRAINING-CAMP-2024
