@@ -114,6 +114,14 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
   - No [repositório](https://github.com/AoCPC-Community/AOCPC-TRAINING-CAMP-2024/) que se encontra, mais especificamente na sessão [Contests](#contests-de-treinos).
 - Onde podemos encontrar as aulas do ano passado?
   - No [repositório](https://github.com/AoCPC-Community/AOCPC-TRAINING-CAMP-2024/) que se encontra, mais especificamente na sessão [Lectures (2023)](#lectures-2023).
+- O que eles querem dizer com ler "t" casos de testes?
+  ```
+    int t;
+    cin >> t;
+    while(t--) {
+        // Tua solução...
+    }
+  ```
 
 ## Dicas e Problemas Frequentes
 - O meu código parece ter uma complexidade aceitável, mas estou a receber TLE.
@@ -141,17 +149,3 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 5. YouTube: [https://www.youtube.com/@aocpc_community](https://www.youtube.com/@aocpc_community)
 
 [Back to the top](#contents)
-
-Segue-se a gravação da 3ª sessão e o contest de prática.
-
-*ÚLTIMA AULA:*
-Pesquisa Binária + Operações e Consultas em Arrays - https://youtu.be/KXsj4bWNrCc
-QUIZ: https://forms.office.com/r/77dPDhw3Av
-
-*CONTESTS DE TREINO:*
-Juntem-se primeiro ao grupo do VJUDGE para terem acesso aos contests:
-3º: https://vjudge.net/contest/642340
-Grupo (caso ainda não acedeu): https://vjudge.net/group/aocpc_tc24 
-
-*OUTROS:*
-Repositório completo: https://github.com/AoCPC-Community/AOCPC-TRAINING-CAMP-2024
