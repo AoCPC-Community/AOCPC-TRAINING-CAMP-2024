@@ -24,15 +24,9 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 | 01  | Complexidade de Algoritmos (Análise Assintótica)     | [https://youtu.be/TVkhWvClnA0](https://youtu.be/TVkhWvClnA0)         |
 | 02  | Pesquisa Binária + Operações e Consultas em Arrays   | [https://youtu.be/KXsj4bWNrCc](https://youtu.be/KXsj4bWNrCc)         |
 | 03  | Matemática                                           | [https://youtu.be/RzPjwv9lFHA](https://youtu.be/RzPjwv9lFHA)         |
-| 04  | (Resolução de Exercícios) Operações em Arrays        | [Indisponível 2024](#)                    |
-| 05  | Teoria dos Números                                   | [Indisponível 2024](#)                    |
-| 06  | Greedy                                               | [Indisponível 2024](#)                    |
-| 07  | Programação Dinâmica                                 | [Indisponível 2024](#)                    |
-| 08  | Grafos                                               | [Indisponível 2024](#)                    |
-|     |                                                      | [Indisponível 2024](#)                    |
-|     |                                                      | [Indisponível 2024](#)     |
-|     |                                                      | [Indisponível 2024](#)     |
-| 09  | Resolução de Problemas Diversos                      |                                                                      |
+| 04  | Greedy vs Programação Dinâmica                       | [https://youtu.be/-NEyxkz3Uvs](https://youtu.be/-NEyxkz3Uvs)         |
+| 05  | Grafos                                               | [Indisponível 2024](#)                                               |
+| 06  | Resolução de Problemas Diversos                      | [Indisponível 2024](#)                                               |
 
 ## Lectures (2023)
 
@@ -122,6 +116,8 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
         // Tua solução...
     }
   ```
+- Existe alguma ferramenta para desenhar grafos?
+  - Sim. Considere: ```!pip install networkx matplotlib```.
 
 ## Dicas e Problemas Frequentes
 - O meu código parece ter uma complexidade aceitável, mas estou a receber TLE.
