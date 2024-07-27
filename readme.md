@@ -25,7 +25,7 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 | 02  | Pesquisa Binária + Operações e Consultas em Arrays   | [https://youtu.be/KXsj4bWNrCc](https://youtu.be/KXsj4bWNrCc)         |
 | 03  | Matemática                                           | [https://youtu.be/RzPjwv9lFHA](https://youtu.be/RzPjwv9lFHA)         |
 | 04  | Greedy vs Programação Dinâmica                       | [https://youtu.be/-NEyxkz3Uvs](https://youtu.be/-NEyxkz3Uvs)         |
-| 05  | Grafos                                               | [Indisponível 2024](#)                                               |
+| 05  | Grafos                                               | [https://youtu.be/jg4R9RoQv6Y](https://youtu.be/jg4R9RoQv6Y)         |
 | 06  | Resolução de Problemas Diversos                      | [Indisponível 2024](#)                                               |
 
 ## Lectures (2023)
