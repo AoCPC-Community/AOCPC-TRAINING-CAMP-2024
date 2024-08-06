@@ -12,9 +12,10 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 7. [Para Ler](#para-ler)
 8. [Plataformas de Programação Competitiva](#plataformas-de-programação-competitiva)
 9. [Repositórios Diversos](#repositórios-diversos)
-10. [Terminologias importantes](#terminologias-importantes)
-11. [Dicas e Problemas Frequentes](#dicas-e-problemas-frequentes)
-12. [FAQ](#faq)
+10. [Estratégias](#estrategias)
+11. [Terminologias importantes](#terminologias-importantes)
+12. [Dicas e Problemas Frequentes](#dicas-e-problemas-frequentes)
+13. [FAQ](#faq)
 
 ## Lectures
 
@@ -71,6 +72,9 @@ Podem visitar os links que se seguem para verem algumas dicas de como fazer leit
 2. [https://www.geeksforgeeks.org/fast-i-o-for-competitive-programming-in-python/](https://www.geeksforgeeks.org/fast-i-o-for-competitive-programming-in-python/)
 
 Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
+
+## Estratégias
+1. Estratégias para Concursos de Programação Competitiva (ICPC-style): [https://www.dropbox.com/scl/fi/xryrmrnt0ffpsqib7hve8/Estrategias-para-las-competiciones-ACM-ICPC.mp4?rlkey=hr3f7bwmjg46lz50vpspf5atu&st=zkh9ox5c&dl=0](https://www.dropbox.com/scl/fi/xryrmrnt0ffpsqib7hve8/Estrategias-para-las-competiciones-ACM-ICPC.mp4?rlkey=hr3f7bwmjg46lz50vpspf5atu&st=zkh9ox5c&dl=0)
 
 ## Plataformas de Programação Competitiva
 1. CodeForces: [https://codeforces.com/](https://codeforces.com/)
