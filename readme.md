@@ -1,8 +1,12 @@
 # AOCPC TRAINING CAMP 2024 - ARCHIVE
 
 Treinamento anual de programação competitiva para os participantes do AoCPC, organizado pela AoCPC Community, num período de 15 dias.
+~Treinamento anual de programação competitiva para os participantes do AoCPC, organizado pela AoCPC Community, num período de 30 dias.
 
 ## Contents
+
+1. [Lectures 2024 (Parte 2)](#lectures-2024-parte-2)
+1. [Lectures 2024 (Parte 1)](#lectures-2024-parte-1)
 1. [Lectures](#lectures)
 2. [Lectures (2023)](#lectures-2023)
 3. [Contests](#contests-de-treinos)
@@ -17,7 +21,20 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 12. [Dicas e Problemas Frequentes](#dicas-e-problemas-frequentes)
 13. [FAQ](#faq)
 
-## Lectures
+## Lectures 2024 (Parte 2)
+
+| #   | Topic                                                | Link                                                                 |
+|-----|------------------------------------------------------|----------------------------------------------------------------------|
+| 00  | C++ STL, Bruteforce e Backtracking                   | [https://youtu.be/E5FlE3o7aNs](https://youtu.be/E5FlE3o7aNs)         |
+| 01  | #     | [Indisponível 2024](#)        |
+| 02  | #   | [Indisponível 2024](#)        |
+| 03  | #                                           | [Indisponível 2024](#)        |
+| 04  | #                       | [Indisponível 2024](#)        |
+| 05  | #                                               | [Indisponível 2024](#)        |
+| 06  | Resolução                       | [Indisponível 2024](#)        |
+
+
+## Lectures 2024 (Parte 1)
 
 | #   | Topic                                                | Link                                                                 |
 |-----|------------------------------------------------------|----------------------------------------------------------------------|
