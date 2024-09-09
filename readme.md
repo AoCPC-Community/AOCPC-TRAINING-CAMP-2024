@@ -123,6 +123,10 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 ## FAQ
 - Quais Linguagens de Programação são usadas?
   - C/C++, JAVA e Python.
+- É imperial que saibamos as 4 linguagens de programação (C++, C, Java, Python), ou só precisamos saber uma delas e resolver todos os exercícios que nos for colocado com essa única linguagem de programação?
+  - Não é, mas é recomendado saber de tudo um pouco. Existem situações em que uma das linguagens facilita mais a vida. Por exemplo, … Hoje vimos que as STLs em C++ ajudam muito quando o assunto é estrutura de dados. E alguns algoritmos como o lower_bound. 
+- E a questão do tempo de execução de programas não será avaliada também Eu li que Java e Python são linguagem que precisam de mais tempo de execução comparado ao C e C++.
+  - Sim. C e C++ são mais rápidos! Existirão casos que serão avaliados, mas na maior parte não. Alguns deles facilitam com restrições que permite passar nas 4 linguagens, dependendo de sua implementação.
 - Estou com dificuldades em encontrar os exercícios e começar a resolver os problemas
   - Assim que aceder o torneio, os problemas estarão no lado esquerdo. Pode selecionar o problema desejado e enviar a solução clicando em “submeter”. Exemplo prático no seguinte tutorial:  [link do tutorial](https://shorturl.at/CXCcb)
 - Onde posso encontrar os contests?
