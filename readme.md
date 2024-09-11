@@ -26,7 +26,7 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 | #   | Topic                                                | Link                                                                 |
 |-----|------------------------------------------------------|----------------------------------------------------------------------|
 | 00  | C++ STL, Bruteforce e Backtracking                   | [https://youtu.be/E5FlE3o7aNs](https://youtu.be/E5FlE3o7aNs)         |
-| 01  | Pilhas Monotónicas e Pesquisa Binária na Resposta     | [https://youtu.be/j1KYTfVdM9s](https://youtu.be/j1KYTfVdM9s)        |
+| 01  | Pilhas Monotónicas e Pesquisa Binária na Resposta     | [https://youtu.be/upebuSQF1rw](https://youtu.be/upebuSQF1rw)        |
 | 02  | #   | [Indisponível 2024](#)        |
 | 03  | #                                           | [Indisponível 2024](#)        |
 | 04  | #                       | [Indisponível 2024](#)        |
