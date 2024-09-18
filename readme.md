@@ -29,7 +29,7 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 | 01  | Pilhas Monotónicas e Pesquisa Binária na Resposta     | [https://youtu.be/upebuSQF1rw](https://youtu.be/upebuSQF1rw)        |
 | 02  | Manipulação Bit a Bit (Bitwise Manipulation), Truques e Técnicas em Matrizes   | [https://youtu.be/-XoeqOOMxoU](https://youtu.be/-XoeqOOMxoU)        |
 | 03  |  Algoritmos de Ordenação e Fórmulas Matemáticas (Clássicas)| [https://youtu.be/ijeIPfOfHNw](https://youtu.be/ijeIPfOfHNw)        |
-| 04  | #                       | [Indisponível 2024](#)        |
+| 04  | Algoritmos de Grafos e Disjoint Sets                       | [https://youtu.be/gv9xUsJvVso](https://youtu.be/gv9xUsJvVso)        |
 | 05  | #                                               | [Indisponível 2024](#)        |
 | 06  | Resolução                       | [Indisponível 2024](#)        |
 
