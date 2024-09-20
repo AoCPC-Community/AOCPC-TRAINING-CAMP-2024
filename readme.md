@@ -30,8 +30,8 @@ Treinamento anual de programação competitiva para os participantes do AoCPC, o
 | 02  | Manipulação Bit a Bit (Bitwise Manipulation), Truques e Técnicas em Matrizes   | [https://youtu.be/-XoeqOOMxoU](https://youtu.be/-XoeqOOMxoU)        |
 | 03  |  Algoritmos de Ordenação e Fórmulas Matemáticas (Clássicas)| [https://youtu.be/ijeIPfOfHNw](https://youtu.be/ijeIPfOfHNw)        |
 | 04  | Algoritmos de Grafos e Disjoint Sets                       | [https://youtu.be/gv9xUsJvVso](https://youtu.be/gv9xUsJvVso)        |
-| 05  | #                                               | [Indisponível 2024](#)        |
-| 06  | Resolução                       | [Indisponível 2024](#)        |
+| 05  | Árvores de Segmentos                                               | [https://youtu.be/QF2S9nHlS7o](https://youtu.be/QF2S9nHlS7o)        |
+| 06  | Resolução de Problemas de Programação Dinâmica                       | [https://youtu.be/GhFcAXecjPM](https://youtu.be/GhFcAXecjPM)        |
 
 
 ## Lectures 2024 (Parte 1)
