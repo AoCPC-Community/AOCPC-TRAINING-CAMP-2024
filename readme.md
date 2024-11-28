@@ -76,7 +76,7 @@ Junte-se 1º ao grupo do VJUDGE para ter acesso aos contests:
 
 
 ## Materiais de Apoio
-Organizado por edição.
+Organizado por Edição, também contém os problemsets dos concursos passados.
 [https://mega.nz/folder/jTp2mLqR#QEzN5ZYgD0R6Zer7O_4OAQ](https://mega.nz/folder/jTp2mLqR#QEzN5ZYgD0R6Zer7O_4OAQ)
 
 ## Quizzes
