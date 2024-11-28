@@ -1,7 +1,11 @@
 # AOCPC TRAINING CAMP 2024 - ARCHIVE
+Treinamento anual de programação competitiva para os participantes do AoCPC, organizado pela AoCPC Community, num período de aproximandamente 30 dias.
 
-Treinamento anual de programação competitiva para os participantes do AoCPC, organizado pela AoCPC Community, num período de 15 dias.
-~Treinamento anual de programação competitiva para os participantes do AoCPC, organizado pela AoCPC Community, num período de 30 dias.
+AoCPC é uma associação de programação competitiva em português Concurso Universitário Angolano de Programação onde apenas estudantes universitários utilizam habilidades de resolução de problemas com base em algoritmos, as equipa competem entre si e é composta por três estudantes da mesma universidade e um professor(treinador).
+
+Annual competitive programming training for AoCPC participants, organized by the AoCPC Community, over a period of approximately 30 days.
+
+AoCPC is a Portuguese-language competitive programming association, the Angolan University Programming Contest, where only university students use algorithm-based problem-solving skills. Teams compete against each other and consist of three students from the same university and one professor (coach).
 
 ## Contents
 
